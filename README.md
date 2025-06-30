@@ -29,6 +29,7 @@ The Employee Management System is designed to facilitate the management of emplo
 - Java
 - Spring MVC
 - JSP (JavaServer Pages)
+- mysql
 - EntityFactoryManager
 
 ## Getting Started
@@ -46,8 +47,8 @@ Follow these instructions to set up the project on your local machine.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Rakib-mbstu/Employee-Management-System-with-Spring-MVC-and-JSP.git
-    cd Employee-Management-System-with-Spring-MVC-and-JSP
+
+    cd
     ```
 
 2. Build the project using Maven:
@@ -66,11 +67,5 @@ Follow these instructions to set up the project on your local machine.
 
 2. Perform CRUD operations on Employees and Designations using the provided interface.
 
-## Contributing
 
-Contributions are welcome! Please follow the [contributing guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
