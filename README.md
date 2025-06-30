@@ -48,7 +48,8 @@ Follow these instructions to set up the project on your local machine.
 
     ```bash
 
-    cd
+  git clone https://github.com/Gopikakavi/Employee-Management-System-with-Spring-MVC-and-JSP-and-mysql.git
+  cd Employee-Management-System-with-Spring-MVC-and-JSP-and-mysql
     ```
 
 2. Build the project using Maven:
